@@ -1,0 +1,19 @@
+From dfbd1d34675ae54df0d2a40967c359be6157bb2c Mon Sep 17 00:00:00 2001
+From: Bowen Zhou <zhoubowenowen@gmail.com>
+Date: Sun, 4 Sep 2016 16:34:43 -0700
+Subject: [PATCH 2/2] seven
+
+---
+ file1 | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/file1 b/file1
+index e019be0..fe7900b 100644
+--- a/file1
++++ b/file1
+@@ -1 +1 @@
+-second
++seven
+-- 
+2.9.2
+
